@@ -1,3 +1,6 @@
+
+![snake gif](https://github.com/navneet1v/navneet1v/blob/main/github-snake-dark.svg) 
+
 - 👋 Hi, I’m @navneet1v
 - 👀 I’m interested in building application for business and developers use.
 - 🌱 I’m currently learning to build interested applications for by Rasberrypi
